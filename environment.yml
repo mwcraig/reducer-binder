@@ -1,6 +1,7 @@
 name: redu-binder
 dependencies:
 - astropy=1.0.4=np19py27_0
+- matplotlib
 - pip:
   - ccdproc==0.3.1
   - jupyter-pip==0.3
