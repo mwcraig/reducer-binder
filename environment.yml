@@ -6,7 +6,6 @@ dependencies:
 - freetype=2.5.2=2
 - funcsigs=0.4=py27_0
 - ipykernel=4.0.3=py27_0
-- ipython=4.0.0=py27_1
 - ipython_genutils=0.1.0=py27_0
 - ipywidgets=4.0.3=py27_0
 - jinja2=2.8=py27_0
