@@ -1,14 +1,8 @@
 name: redu-binder
 dependencies:
 - astropy=1.0.4=np19py27_0
-- numpy=1.9.3=py27_0
 - pip:
-  - backports.ssl-match-hostname==3.4.0.2
   - ccdproc==0.3.1
-  - ipython-genutils==0.1.0
-  - jupyter-client==4.0.0
-  - jupyter-console==4.0.2
-  - jupyter-core==4.0.6
   - jupyter-pip==0.3
   - msumastro==0.8.5
   - reducer==0.2.1
