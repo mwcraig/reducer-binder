@@ -5,6 +5,11 @@ dependencies:
 - ipython
 - jupyter
 - ipywidgets
+- scipy
+- nose
+- mock
+- funcsigs
+- pillow
 - pip:
   - ccdproc==0.3.1
   - jupyter-pip==0.3
