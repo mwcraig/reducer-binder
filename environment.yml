@@ -9,7 +9,6 @@ dependencies:
 - ipython_genutils=0.1.0=py27_0
 - ipywidgets=4.0.3=py27_0
 - jinja2=2.8=py27_0
-- jpeg=8d=1
 - jsonschema=2.4.0=py27_0
 - jupyter=1.0.0=py27_0
 - jupyter_client=4.0.0=py27_0
