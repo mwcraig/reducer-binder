@@ -1,6 +1,5 @@
 name: redu-binder
 dependencies:
-- appnope=0.1.0=py27_0
 - astropy=1.0.4=np19py27_0
 - certifi=14.05.14=py27_0
 - decorator=4.0.4=py27_0
