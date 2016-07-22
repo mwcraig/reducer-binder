@@ -13,6 +13,8 @@ dependencies:
 - funcsigs
 - pillow
 - ccdproc=1*
+- scikit-image
+- dask
 - pip:
   - msumastro==0.9.0
   - reducer==0.3.0
