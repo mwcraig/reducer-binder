@@ -1,4 +1,4 @@
-name: redu-binder-noo
+name: redu-binder
 channels:
   - astropy
 dependencies:
