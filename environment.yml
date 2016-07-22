@@ -1,18 +1,19 @@
-name: redu-binder
+name: redu-binder-noo
+channels:
+  - astropy
 dependencies:
-- astropy=1.0.4=np19py27_0
+- astropy=1.2.1
 - matplotlib
 - ipython
 - jupyter
-- ipywidgets
+- ipywidgets=4*
 - scipy
 - nose
 - mock
 - funcsigs
 - pillow
+- ccdproc=1*
 - pip:
-  - ccdproc==0.3.1
-  - jupyter-pip==0.3
-  - msumastro==0.8.5
-  - reducer==0.2.1
+  - msumastro==0.9.0
+  - reducer==0.3.0
 
