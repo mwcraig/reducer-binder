@@ -2,6 +2,7 @@ name: redu-binder
 channels:
   - astropy
 dependencies:
+- python=3
 - astropy=1.2.1
 - matplotlib
 - ipython
@@ -12,7 +13,7 @@ dependencies:
 - mock
 - funcsigs
 - pillow
-- ccdproc=1*
+- ccdproc
 - scikit-image
 - dask
 - pip:
